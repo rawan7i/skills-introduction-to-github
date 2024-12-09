@@ -1,0 +1,81 @@
+.hpp p {
+
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: center;
+}
+
+.nav-item {
+    margin-right: 15px; 
+}
+.img-center {
+    width: 50%; 
+    max-width: 300px; 
+    height: auto; 
+}
+.middle {
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+}
+.hpp h2 {
+    margin-top: 80px;
+    margin-bottom: 100px;
+    text-align: center;
+}
+
+.hppp p {
+
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: center;
+}
+
+.hppp h2 {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: center;
+}
+.flex-container img {
+    width: 170px;
+    height: 250px;
+    margin: 0 50px;
+}
+
+#secsess{
+
+    display: none;
+}
+
+input[type="checkbox"] {
+    display: inline-block !important; 
+    width: auto !important; 
+    height: auto !important; 
+    margin-right: 10px; 
+}
+
+#show{
+text-align: center;
+
+align-items: center;
+margin: 20px auto;
+
+}
+button{
+ font-size:240px;   
+}
+
+  #submit {
+    margin: 20px 0;
+    padding: 10px 20px;
+    font-size: 18px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 7px;
+    border: 3px solid rgb(235, 192, 53);
+     }
+
+label {
+    padding: 10px 10px;
+    
+}
